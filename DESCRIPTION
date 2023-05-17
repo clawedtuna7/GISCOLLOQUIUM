@@ -1,0 +1,20 @@
+Package: GISCOLLOQUIUM
+Title: Deindustrialization in the City of Chicago (1980-2020)
+Version: 0.0.0.9000
+Authors@R: 
+    person("Noel", "Garcia", , "ngarcia7@uchicago.edu", role = c("aut", "cre"),
+    comment = c(ORCID = "https://orcid.org/0000-0002-4623-0878"))
+Description: This package contains basic demographic and income data for 
+             every decennial year between 1980 and 2020. Though it can be 
+             used for many analyses, the original intention is utilize the 
+             embeded data to look at and analyze spatial trends over the forty
+             year period as it relates to the age of deindustrialization in the
+             City of Chicago. 
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Depends: R (>= 2.10)
+LazyData: true
+Imports: 
+    tibble
