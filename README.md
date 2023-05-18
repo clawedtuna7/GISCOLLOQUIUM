@@ -27,19 +27,32 @@ who have historically or still operate manufacturing related industry
   This package, though basic in its content, aims to be used as a tool to demonstrate the changes in demographic 
 and economic variables throughout the City of Chicago over the 1980-2020 period. 
   
-  The **GISCOLLOQUIUM** package contains the following data:
+ 
+ 
+#### The **GISCOLLOQUIUM** package contains the following data:
   
-  ChicagoCityBounds - Chicago City Boundaries
-  ZoI - "Zones of Interest", an intersection between Chicago's Industrial Corridors and 2010 Census Tracts
-  Demography_1980 - 1980 Demographic Data gathered from NHGIS - precented as percentages
-  Demography_1990 - 1990 Demographic Data gathered from NHGIS - precented as percentages
-  Demography_2000 - 2000 Demographic Data accessed through the tidycensus - precented as percentages
-  Demography_2010 - 2010 Demographic Data accessed through the tidycensus - precented as percentages
-  Demohraphy_2020 - 2020 Demographci Data accessed through the tidycensus - presented as percentages
-  Per_Capita_Income_1980 - 1980 Per Capita Income estimates from NHGIS
-  Per_Capita_Income_1990 - 1990 Per Capita Income estimates from NHGIS
-  Per_Capita_Income_1999 - 1999 Per Capita Income estimates from NHGIS
-  Median_Household_Income_2010 - 2010 Median Household Income accessed through the tidycensus
-  Median_Household_Income_2010 - 2020 Median Household Incoem accessed through the tidycensus 
+ 1) ChicagoCityBounds - Chicago City Boundaries
+ 
+ 2) ZoI - "Zones of Interest", an intersection between Chicago's Industrial Corridors and 2010 Census Tracts
+ 
+ 3) Demography_1980 - 1980 Demographic Data gathered from NHGIS - presented as percentages
+ 
+ 4) Demography_1990 - 1990 Demographic Data gathered from NHGIS - presented as percentages
+ 
+ 5) Demography_2000 - 2000 Demographic Data accessed through the *tidycensus* - presented as percentages
+ 
+ 6) Demography_2010 - 2010 Demographic Data accessed through the *tidycensus* - presented as percentages
+ 
+ 7) Demography_2020 - 2020 Demographci Data accessed through the *tidycensus* - presented as percentages
+ 
+ 8) Per_Capita_Income_1980 - 1980 Per Capita Income estimates from NHGIS
+ 
+ 9) Per_Capita_Income_1990 - 1990 Per Capita Income estimates from NHGIS
+ 
+ 10) Per_Capita_Income_1999 - 1999 Per Capita Income estimates from NHGIS
+ 
+ 11) Median_Household_Income_2010 - 2010 Median Household Income accessed through the *tidycensus*
+ 
+ 12) Median_Household_Income_2010 - 2020 Median Household Incoem accessed through the *tidycensus* 
 
   
